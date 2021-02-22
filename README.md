@@ -23,7 +23,7 @@
 
 5. 点击各个部分的眼睛符号按钮可以掩盖当前内容
 
-   ![words](https://github.com/12218/Save-You-From-Vocabularies/blob/main/words.gif)
+   ![words](https://img-blog.csdnimg.cn/20210223001844441.gif)
 
 ## 四、更新&失效说明
 
